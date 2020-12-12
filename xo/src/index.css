@@ -43,11 +43,12 @@ ol, ul {
 
 .game {
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
   transform: translateX(30%);
   height: 100vh;
 }
 
 .game-info {
   margin-left: 20px;
+  margin-top: 30px;
 }
